@@ -52,7 +52,10 @@ Benchmarked a custom CNN against pretrained ResNet-50 for bone fracture classifi
  
 ### 📫 Let's Connect
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/adriana-soldat/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-soldat/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adrianasoldat12345@gmail.com)
+ 
+📧 **Email:** adrianasoldat12345@gmail.com
+🔗 **LinkedIn:** linkedin.com/in/adriana-soldat/
  
 ---
